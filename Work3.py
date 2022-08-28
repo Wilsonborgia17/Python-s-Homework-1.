@@ -1,3 +1,4 @@
+print("Comprenciòn de conceptos bàsicos de Python")
 print("Primer tarea de python en Git Hub para reforzar conocimientos de ambos cursos")
 print("El resultado de la suma 3 +3  es",3+3)
 print("El resultado de la resta 3-3 es", 3-3)
