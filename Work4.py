@@ -1,3 +1,4 @@
+#Ernesto Javier Bermudez Perez.
 """Escribir un programa que:
 1.- Cree dos variables, una de nombre "espacios" y otra de nombre
 "asteriscos" y les asigne los valores numéricos 25 y 1
